@@ -1,1 +1,1 @@
-"<?php echo 'This is $hostname'; ?>" 
+"<?php echo 'This is ' gethostname(); ?>" 
